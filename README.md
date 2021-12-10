@@ -9,3 +9,4 @@ a bot for the seg-fault server
 * [doc discord.py](https://discordpy.readthedocs.io/en/latest/quickstart.html#a-minimal-bot)
 * [github discord.py](https://github.com/Rapptz/discord.py)
 * [doc bot-account](https://discordpy.readthedocs.io/en/latest/discord.html#discord-intro)
+* [doc Heroku](https://devcenter.heroku.com/categories/python-support)
