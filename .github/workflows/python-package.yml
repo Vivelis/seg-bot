@@ -30,5 +30,4 @@ jobs:
         if [ -f requirements.txt ]; then pip install -r requirements.txt; fi
     - name: Install discord need
       run: |
-        apt install libffi-dev libnacl-dev python3-dev
         python3 -m pip install -U discord.py
